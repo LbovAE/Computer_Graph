@@ -1,0 +1,11 @@
+C:\Users\aleks\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Graph_1.0.csprojAssemblyReference.cache
+C:\Users\aleks\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\aleks\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\aleks\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\aleks\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Graph_1.0.csproj.GenerateResource.cache
+C:\Users\aleks\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Graph_1.0.csproj.CoreCompileInputs.cache
+C:\Users\aleks\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Graph_1.0.exe.config
+C:\Users\aleks\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Graph_1.0.exe
+C:\Users\aleks\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Graph_1.0.pdb
+C:\Users\aleks\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Graph_1.0.exe
+C:\Users\aleks\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Graph_1.0.pdb
